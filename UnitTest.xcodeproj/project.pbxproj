@@ -16,6 +16,7 @@
 		02F8D2382965F8A8007DE6CA /* UnitTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F8D2372965F8A8007DE6CA /* UnitTestTests.swift */; };
 		02F8D2422965F8A8007DE6CA /* UnitTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F8D2412965F8A8007DE6CA /* UnitTestUITests.swift */; };
 		02F8D2442965F8A8007DE6CA /* UnitTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F8D2432965F8A8007DE6CA /* UnitTestUITestsLaunchTests.swift */; };
+		02F8D2512965FA09007DE6CA /* MathFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F8D2502965FA09007DE6CA /* MathFunctions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		02F8D23D2965F8A8007DE6CA /* UnitTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UnitTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		02F8D2412965F8A8007DE6CA /* UnitTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitTestUITests.swift; sourceTree = "<group>"; };
 		02F8D2432965F8A8007DE6CA /* UnitTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		02F8D2502965FA09007DE6CA /* MathFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MathFunctions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				02F8D2292965F8A8007DE6CA /* Assets.xcassets */,
 				02F8D22B2965F8A8007DE6CA /* LaunchScreen.storyboard */,
 				02F8D22E2965F8A8007DE6CA /* Info.plist */,
+				02F8D2502965FA09007DE6CA /* MathFunctions.swift */,
 			);
 			path = UnitTest;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				02F8D2252965F8A5007DE6CA /* ViewController.swift in Sources */,
+				02F8D2512965FA09007DE6CA /* MathFunctions.swift in Sources */,
 				02F8D2212965F8A5007DE6CA /* AppDelegate.swift in Sources */,
 				02F8D2232965F8A5007DE6CA /* SceneDelegate.swift in Sources */,
 			);
